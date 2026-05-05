@@ -1,0 +1,30 @@
+# Compiled
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
+/build/
+/out/
+/target/
+/bin/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+.factorypath
+nbproject/private/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+hs_err_pid*.log
+replay_pid*.log
