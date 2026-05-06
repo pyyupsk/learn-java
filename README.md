@@ -4,7 +4,7 @@ Self-paced Java learning. Each folder under `src/` is a topic with a `README.md`
 
 ## Requirements
 
-- JDK 21+ (`java --version`).
+- JDK 26+ (`java --version`).
 
 ## Run any topic
 
